@@ -9,11 +9,6 @@ After clicking the above text, click the "New issue" button to open a new submis
 
 Please use the following format:
 ![issues request format](https://i.imgur.com/RTZ4aVr.png)
-### Title
-[WHITELIST] or [BLACKLIST] World Name
-
-### Description 
-Please be as descriptive as possible in your request for why the world's status should be changed
 
 ## Information
 ### What are the Risky Functions?
