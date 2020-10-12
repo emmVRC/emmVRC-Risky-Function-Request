@@ -4,9 +4,10 @@ Please only submit one request per world
 
 ### [SUBMIT A REQUEST HERE](https://github.com/emmVRC/emmVRC-Risky-Function-Request/issues "Risky Functions Requests")
 
+After clicking the above text, click the "New issue" button to open a new submission.
 ![issues button](https://i.imgur.com/YIGGwH3.png)
 
-Please use the following format
+Please use the following format:
 ![issues request format](https://i.imgur.com/jvTyYqz.png)
 ### Title
 [WHITELIST] or [BLACKLIST] World Name
