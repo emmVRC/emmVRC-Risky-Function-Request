@@ -8,7 +8,7 @@ After clicking the above text, click the "New issue" button to open a new submis
 ![issues button](https://i.imgur.com/YIGGwH3.png)
 
 Please use the following format:
-![issues request format](https://i.imgur.com/jvTyYqz.png)
+![issues request format](https://i.imgur.com/RTZ4aVr.png)
 ### Title
 [WHITELIST] or [BLACKLIST] World Name
 
