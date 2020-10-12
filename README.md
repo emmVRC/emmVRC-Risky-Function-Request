@@ -9,7 +9,6 @@ Please open an issue request [HERE](https://github.com/emmVRC/emmVRC-Risky-Funct
 ![issues button](https://i.imgur.com/YIGGwH3.png)
 
 Please use the following format
-
 ![issues request format](https://i.imgur.com/jvTyYqz.png)
 ### Title
 [WHITELIST] or [BLACKLIST] Name of the World
