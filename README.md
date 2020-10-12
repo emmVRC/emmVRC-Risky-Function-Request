@@ -1,5 +1,6 @@
 # emmVRC-Risky-Function-Request
-Request a world to be added to the Risky Functions whitelist or blacklist  
+Risky Functions include: Fly, Noclip, Jump, Waypoints, Speed, and Teleporting  
+Request a world here to be added to the Risky Functions whitelist or blacklist  
 Please only submit one request per world
 
 ### [SUBMIT A REQUEST](https://github.com/emmVRC/emmVRC-Risky-Function-Request/issues "Risky Functions Requests")
