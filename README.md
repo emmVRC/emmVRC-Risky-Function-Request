@@ -15,3 +15,5 @@ Please use the following format:
 Risky Functions include: Fly, Noclip, Jump, Waypoints, Speed, and Teleporting.  
 ### How Risky Functions Work
 Risky Functions are blocked in worlds with the Game or Club tags by default. This is to prevent cheating and invasion of privacy, as emmVRC is meant to be used as a Quality of Life mod. If you find a world that you don't think should be blocked, you can request a whitelist. We can also blacklist worlds if these functions can be used maliciously. We understand that not all game worlds should be blocked. As part of the effort to ensure emmVRC will continue to be respectful of user's privacy, and ensure fairness in Game worlds, requests will be reviewed before a world is accepted or denied.
+
+### [LIST OF APPROVED/DENIED WORLDS](https://github.com/emmVRC/emmVRC-Risky-Function-Request/projects/1 "Risky Functions List")
