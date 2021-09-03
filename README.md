@@ -1,5 +1,6 @@
 # emmVRC Risky Function Request 
-Request a world here to be added to the Risky Functions whitelist or blacklist  
+The quickest way to allow/deny is by creating a root GameObject. Call it `eVRCRiskFuncDisable` to disallow Risky, and `eVRCRiskFuncEnable` to allow them even if you have Game or Club tags.  
+Otherwise you can request a world here to be added to the Risky Functions whitelist or blacklist  
 Please only submit one request per world
 
 ### [SUBMIT A REQUEST HERE](https://github.com/emmVRC/emmVRC-Risky-Function-Request/issues "Risky Functions Requests")
