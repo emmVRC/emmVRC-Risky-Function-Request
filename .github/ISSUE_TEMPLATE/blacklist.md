@@ -8,17 +8,17 @@ assignees: ''
 ---
 
 **World ID that you want to blacklist.**
-<!-- Easist way to find world ID is by going to the VRChat site https://vrchat.com/home searching for the world and the ID will be in the URL starting with "wrld_" -->
+Easist way to find world ID is by going to the VRChat site https://vrchat.com/home searching for the world and the ID will be in the URL starting with "wrld_"
 
 **Have you read README.md?**
-<!-- yes/no -->
+yes/no
 
 **Are you the world creator?**
-<!-- yes/no -->
+yes/no
 
 **Why should this world be blacklisted?**
-<!-- Mention why risky functions should not be allowed in this world.
-ie. Private rooms or game world. -->
+Mention why risky functions should not be allowed in this world.
+ie. Private rooms or game world.
 
 **Additional context**
-<!-- Add any other context or screenshots here. -->
+Add any other context or screenshots here.
