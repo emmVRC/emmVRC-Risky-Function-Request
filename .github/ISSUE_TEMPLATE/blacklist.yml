@@ -16,7 +16,7 @@ body:
     id: readme
     attributes:
       label: I have read README.md
-      description: "[README.md](https://github.com/rakosi2/public-test-form/blob/main/README.md)"
+      description: "[README.md](https://github.com/emmVRC/emmVRC-Risky-Function-Request#readme)"
       options:
         - label: "Yes"
           required: true
