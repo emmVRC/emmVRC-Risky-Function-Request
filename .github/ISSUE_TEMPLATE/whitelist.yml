@@ -1,0 +1,46 @@
+name: Whitelist
+description: Request a world to allow Risky Functions
+title: "[WHITELIST] <add world name here>"
+labels: ["whitelist"]
+assignees: []
+body:
+  - type: input
+    id: id
+    attributes:
+      label: World ID that you want to whitelist.
+      description: "Easist way to find world ID is by going to the VRChat site https://vrchat.com/home searching for the world and the ID will be in the URL"
+      placeholder: "wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    validations:
+      required: true
+  - type: checkboxes
+    id: readme
+    attributes:
+      label: I have read README.md
+      description: "[README.md](https://github.com/rakosi2/public-test-form/blob/main/README.md)"
+      options:
+        - label: "Yes"
+          required: true
+  - type: dropdown
+    id: creator
+    attributes:
+      label: Are you the world creator?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this world be whitelist?
+      description: "Mention why risky functions should be allowed in this world."
+      placeholder: "World was tagged as game because it has pool table with no private rooms."
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots here.
+    validations:
+      required: false
